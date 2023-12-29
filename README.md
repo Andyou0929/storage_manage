@@ -10,6 +10,7 @@ nodejs,vue
 #### 安装教程
 
 #####数据库部署
+
 1.执行createTable.sql的所有语句
 2.修改/api_serve/db/index.js的文件
 
