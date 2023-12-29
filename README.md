@@ -12,6 +12,7 @@ nodejs,vue
 1.  nodejs版本 >= 16.0.0
 2.  后台服务启动 
     `node app.js`
+
 #####前端服务启动方法
 1.  安装依赖
     `yarn install`
