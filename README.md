@@ -4,7 +4,11 @@
 仓储管理系统
 
 #### 软件架构
-nodejs,vue
+后端技术栈：nodejs
+
+前端技术栈：vue2,ant-design-vue,echarts,vuex,webpack
+
+数据库：mysql
 
 
 #### 安装教程
